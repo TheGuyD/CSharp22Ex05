@@ -1,0 +1,9 @@
+#ignore directories produced by visual studio
+obj/
+bin/
+
+#ignore all hidden files  
+.*
+
+#.gitignore
+!/.gitignore
